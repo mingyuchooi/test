@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  background(100);
+  background(101);
   fill(0,100,150);
   rect(30,30,540, 340);
   ball.display();
